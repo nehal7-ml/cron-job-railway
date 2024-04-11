@@ -16,7 +16,8 @@
     "numReplicas": 1,
     "restartPolicyType": "ON_FAILURE",
     "restartPolicyMaxRetries": 10,
-    "cronSchedule": "* * * * *",
+    "cronSchedule": "*/2 * * * *"
+    ,
     "startCommand": "npm start"
   }
 }
