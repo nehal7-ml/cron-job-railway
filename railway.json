@@ -6,7 +6,7 @@
       "phases": {
         "setup": {
           "nixPkgs": [
-            "...", "Bun"
+            "..."
           ]
         }
       }
