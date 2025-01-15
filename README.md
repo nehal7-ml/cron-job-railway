@@ -1,3 +1,6 @@
+#  About
+Run cron jobs on Railway with this boiler plater using bun/node
+
 # cron-job-railway
 
 To install dependencies:
